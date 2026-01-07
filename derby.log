@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jan 08 00:00:51 ICT 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-019b-9967-6e1c-000001b4a400 
+on database directory /Users/tranngoctuan0910/Workspaces/Test/TestIceberg/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5ffd2b27 
+Loaded from file:/Users/tranngoctuan0910/Workspaces/Test/TestIceberg/.venv/lib/python3.12/site-packages/pyspark/jars/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.12+8-LTS-286
+user.dir=/Users/tranngoctuan0910/Workspaces/Test/TestIceberg
+os.name=Mac OS X
+os.arch=aarch64
+os.version=26.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
